@@ -1,2 +1,0 @@
-print("twinkle, twinkle, little, star,\n    how i wonder what you are!\n       up above the world so high,\n       like the diamond in the sky,")
-print("twinkle, twinkle, little, star,\n    how i wonder what you are")
